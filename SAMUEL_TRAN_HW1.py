@@ -5,6 +5,7 @@ def printLeapYear(printYearStatement):
     print(" === " + printYearStatement + " is a leap year!")
 
 def notLeapYearPrint(printYearStatement):
+    print(" === Please enter a valid year!")
     print(" === " + printYearStatement + " is not a leap year!")
 
 def isLeapYearCheck(printYearStatement, status):
